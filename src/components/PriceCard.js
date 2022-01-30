@@ -21,7 +21,7 @@ function PriceCard(props) {
                         <li className={props.data.reportsFlag?"":"text-muted"}><span className="fa-li"><i className={props.data.reportsFlag?"fas fa-check":"fas fa-times"}></i></span>{props.data.reports}</li>
                     </ul>
                     <div className="d-grid">
-                        <a href="#" className="btn btn-primary text-uppercase">Button</a>
+                        <a href="" className="btn btn-primary text-uppercase">Button</a>
                     </div>
                 </div>
             </div>
