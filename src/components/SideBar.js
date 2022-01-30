@@ -17,7 +17,7 @@ function SideBar() {
 
             <Link to="dashboard">
                 <li className="nav-item active">
-                    <a className="nav-link" href="">
+                    <a className="nav-link" href="dummy">
                         <i className="fas fa-fw fa-tachometer-alt"></i>
                         <span>Dashboard</span></a>
                 </li>
@@ -31,7 +31,7 @@ function SideBar() {
 
             <Link to="todo">
                 <li className="nav-item">
-                    <a className="nav-link" href="">
+                    <a className="nav-link" href="dummy">
                         <i className="fas fa-fw fa-list-alt"></i>
                         <span>Tasks</span></a>
                 </li>
